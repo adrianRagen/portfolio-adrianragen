@@ -1,7 +1,7 @@
 /*Text colors*/
 
 .text-primary{
-  color: #28a745;
+  color: #5384f0;
  }
  
  .text-secondary{
@@ -32,7 +32,7 @@
  }
  
  .btn-primary, .bg-primary{
-   background-color: #28a745;
+   background-color: var(--);
    color: #fff;
  }
  
